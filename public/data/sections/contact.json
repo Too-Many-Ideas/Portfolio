@@ -85,8 +85,8 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "freelnc111@gmail.com",
-                    "link": {"href": "freelnc111@gmail.com", "tooltipString": "email_me"},
+                    "label": "kristofer111freelance@gmail.com",
+                    "link": {"href": "kristofer111freelance@gmail.com", "tooltipString": "email_me"},
                     "locales": {
                         "en": {"title": "Mail"},
                         "ko": {"title": "이메일"}
@@ -96,7 +96,7 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@Saba Papava",
+                    "label": "@Kristofer Joakim Trakosdjanac",
                     "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},

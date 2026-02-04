@@ -1,5 +1,5 @@
 /**
- * @author Saba P
+ * @author Kristofer T
  * @description Use this script to create new articles.
  *
  * @usage

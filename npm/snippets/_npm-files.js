@@ -1,5 +1,5 @@
 /**
- * @author Saba P
+ * @author Kristofer T
  * @description Handy utilities to help manage files within your npm scripts.
  */
 import {useNpmLogger} from "./_npm-log.js"

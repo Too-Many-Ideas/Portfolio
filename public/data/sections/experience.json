@@ -90,23 +90,23 @@
                     "img": "images/pictures/timeline-place-adobe.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2024, "month": 1},
-                    "dateEnd": {"year": 2024, "month": 9},
+                    "dateStart": {"year": 2015, "month": 1},
+                    "dateEnd": {"year": 2018, "month": 9},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Engineer",
-                            "province": "Tbilisi",
-                            "country": "Georgia",
-                            "institution": "Fullstack seniro developer",
+                            "title": "{{DevOps}} Engineer",
+                            "province": "Tidaholm",
+                            "country": "Sweden",
+                            "institution": "Full-Stack Architect and DevOps Lead",
                             "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
                             "list": [],
-                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
+                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes", "Azure", "AI", "DevOps", "Network Security"]
                         },
                         "es": {
                             "title": "Ingeniero {{Backend}}",
-                            "province": "Tbilisi",
+                            "province": "Sweden",
                             "country": "EU, remote",
-                            "institution": "Adobe Inc",
+                            "institution": "Ericsson",
                             "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia del procesamiento de datos mediante funciones en la nube.",
                             "list": [],
                             "tags": []
@@ -128,14 +128,14 @@
                     "img": "",
                     "faIcon": "fa-brands fa-apple",
                     "faIconColors": {"bg": "#111", "fill": "#EEE"},
-                    "dateStart": {"year": 2024, "month": 10},
+                    "dateStart": {"year": 2019, "month": 10},
                     "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Senior Backend}} Developer",
-                            "province": "Tbilisi",
-                            "country": "Georgia",
-                            "institution": "Appelian Software",
+                            "title": "{{Cloud Architect & DevOps Consultant}} ",
+                            "province": "Tidaholm",
+                            "country": "Sweden",
+                            "institution": "Tietovery",
                             "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
                             "list": [
                                 "Security",
@@ -144,7 +144,7 @@
                                 "Optimizing database performance with PostgreSQL",
                                 "Building services with Swift, PHP, and GraphQL"
                             ],
-                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs"]
+                            "tags": ["DevOps", "JavaScript", "React", "NodeJS", "Python", "REST APIs"]
                         },
                         "es": {
                             "title": "Desarrollador {{Senior Backend}}",

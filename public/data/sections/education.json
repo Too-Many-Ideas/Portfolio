@@ -43,15 +43,15 @@
                     "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2021, "month": 1},
-                    "dateEnd": {"year": 2021, "month": 6},
+                    "dateStart": {"year": 2008, "month": 1},
+                    "dateEnd": {"year": 2008, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "PHP Development {{Nanodegree}}",
+                            "title": "AWS Infrastructure {{Nanodegree}}",
                             "province": "",
                             "country": "Remote",
                             "institution": "Udacity",
-                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
+                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[DevOps]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
                             "list": [],
                             "tags": []
                         },
@@ -86,15 +86,15 @@
                     "img": "images/pictures/timeline-place-mit.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2021, "month": 4},
-                    "dateEnd": {"year": 2024, "month": 9},
+                    "dateStart": {"year": 2009, "month": 4},
+                    "dateEnd": {"year": 2010, "month": 9},
                     "locales": {
                         "en": {
-                            "title": "{{Bachelor}} in Computer Science",
-                            "province": "| Tbilisi ",
-                            "country": "Goergia",
-                            "institution": "Tbilisi State University",
-                            "text": "Earned a [[Bachelor's degree in Computer Science]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
+                            "title": "{{Master}} in Computer Science",
+                            "province": "| Tidaholm ",
+                            "country": "Sweden",
+                            "institution": "KTH Royal Institute of Technology",
+                            "text": "Earned a [[Master's degree in Computer Science]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
                             "list": [],
                             "tags": []
                         },
@@ -102,7 +102,7 @@
                             "title": "{{Grado}} en Ciencias de la Computación",
                             "province": "Massachusetts",
                             "country": "EE. UU.",
-                            "institution": "Tbilisi State University",
+                            "institution": "KTH Royal Institute of Technology",
                             "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
                             "list": [],
                             "tags": []
@@ -132,16 +132,17 @@
                     "img": "images/pictures/timeline-place-university-paris.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2024, "month": 10},
-                    "dateEnd": {"year": "2025", "month": "11"},
+                    "dateStart": {"year": 2012, "month": 10},
+                    "dateEnd": {"year": "2014", "month": "11"},
                     "locales": {
                         "en": {
-                            "title": "{{Senior}} in Fullstack development",
-                            "province": "| Tbilisi ",
-                            "country": "Goergia",
+                            "title": "{{Senior}} in Full-Stack Architect and DevOps Lead",
+                            "province": "| Tidaholm ",
+                            "country": "Sweden",
                             "institution": "Appelian Software",
                             "text": "Completed a comprehensive Senior's program focused on [[fullstack]], including:",
                             "list": [
+                                "DevOps",
                                 "Backend",
                                 "Frontend",
                                 "Neural Networks"
@@ -169,8 +170,8 @@
                         },
                         "fr": {
                             "title": "{{Master}} en Intelligence Artificielle",
-                            "province": "| Tbilisi ",
-                            "country": "Goergia",
+                            "province": "| Tidaholm ",
+                            "country": "Sweden",
                             "institution": "Appelian Software",
                             "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés en IA]], notamment :",
                             "list": [

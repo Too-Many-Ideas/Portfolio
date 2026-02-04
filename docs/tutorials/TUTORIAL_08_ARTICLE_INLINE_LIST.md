@@ -23,7 +23,7 @@ Just copy and paste this into a section's `articles` array and see the magic hap
     "items": [
         {
             "id": 1,
-            "label": "Tbilish – Georgia",
+            "label": "Sweden",
             "link": {"href": "", "tooltipString": ""},
             "faIcon": "fa-regular fa-address-book"
         },

@@ -1,5 +1,5 @@
 /**
- * @author Saba P
+ * @author Kristofer T
  * @date 2025-05-10
  * @description This hook provides methods to parse and validate data loaded from JSON files.
  */

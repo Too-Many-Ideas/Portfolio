@@ -1,5 +1,5 @@
 /**
- * @author Saba P
+ * @author Kristofer T
  * @date 2025-05-10
  * @description This provider is responsible for managing feedbacks, modals and UI interactions.
  */

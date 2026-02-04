@@ -51,7 +51,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-database",
                     "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
-                    "date": {"year": 2025, "month": 8},
+                    "date": {"year": 2020, "month": 8},
                     "link": {"href": "https://www.mongodb.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
@@ -99,8 +99,8 @@
                     "locales": {
                         "en": {
                             "title": "{{Best Graduation Project}} – Backend Optimization",
-                            "province": "Tbilisi",
-                            "country": "Georgia",
+                            "province": "Tidaholm",
+                            "country": "Sweden",
                             "institution": "",
                             "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%."
                         }

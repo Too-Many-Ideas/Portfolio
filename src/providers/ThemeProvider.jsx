@@ -1,5 +1,5 @@
 /**
- * @author Saba P
+ * @author Kristofer T
  * @date 2025-05-10
  * @description This provider handles the theme management for the application, allowing users to switch between different themes.
  */

@@ -1,5 +1,5 @@
 {
-    "name": "Saba P",
+    "name": "Kristofer T",
 
     "profilePictureUrl": "images/pictures/profile-picture.jpg",
     "resumePdfUrl": "",
@@ -9,7 +9,7 @@
     "statusCircleHoverMessage": "status_message_available_for_freelance",
 
     "locales": {
-        "en": {            "localized_name": "Saba P",
+        "en": {            "localized_name": "Kristofer T",
             "localized_name_stylized": " [[Saba {{Papava}}]]",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
@@ -21,7 +21,7 @@
                 "Maintenance & Support"
                 
             ],
-            "name_pronunciation_ipa": "Saba P",
+            "name_pronunciation_ipa": "Kristofer T",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.m4a"
         },
         "es": {
