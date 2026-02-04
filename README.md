@@ -1,7 +1,8 @@
-# [<img src="docs/assets/logo.png"> My Portfolio by Kristofer T
+# [<img src="docs/assets/logo.png"> My Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Saba P
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
+![alt promo](docs/assets/readme-promotional-image-min.png)
 
 Key features:
 - Lightweight and fully responsive.
@@ -18,26 +19,33 @@ Here's a list of live versions of the template:
 
 | #     | Version             | Description                                             | URL                                                                     |
 |-------|---------------------|---------------------------------------------------------|-------------------------------------------------------------------------|
-| 🟢    | Kristofer T (default) | Latest deployment of the template here on GitHub pages.
-| 🟣    | Emily Park          | An example of how the template can be customized.      
-| 🔵    | Michael Özkan       | Another example of how the template can be customized.  
+| 🟢    | Saba P (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://ryanbalieiro.github.io/react-portfolio-template/)     |
+| 🟣    | Emily Park          | An example of how the template can be customized.       | [Preview](https://ryansandbox.github.io/emily-park-react-portfolio/)    |
+| 🔵    | Michael Özkan       | Another example of how the template can be customized.  | [Preview](https://ryansandbox.github.io/michael-ozkan-react-portfolio/) |
+
 ## Layout and concept
 
 ### 1. Base layout
 The layout uses a fixed central view with a left sidebar, adjusting perfectly across various monitor resolutions, from 4:3 to ultra-wide.
 
+![alt layout](docs/assets/readme-home-preview-min.png)
 
 ### 2. Desktop Screenshots
 The main view transitions smoothly when a new page is selected from the sidebar, giving a page-flipping effect. The sidebar is also toggleable, allowing the content area to expand for a larger viewing space.
 
+![alt desktop](docs/assets/readme-desktop-screenies-min.png)
+
 ### 3. Mobile Screenshots
 On mobile, the layout groups the portfolio sections into categories and transforms into a tabbed interface with a bottom navigation.
+
+![alt mobile](docs/assets/readme-mobile-screenies-min.png)
 
 ## Getting Started
 
 1. Clone the repo:
 ```
-
+git clone https://github.com/ryanbalieiro/react-portfolio-template
+```
 
 2. Go to the project's root folder and use npm to install all required components:
 ```
@@ -87,9 +95,9 @@ Follow these additional tutorials to further enhance your portfolio with advance
 
 ## About
 
-This template was created by and is maintained by **[Kristofer T](https://ryanbalieiro.com/)**.
+This template was created by and is maintained by **[Saba P](https://ryanbalieiro.com/)**.
 
-It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Kristofer T.
+It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Saba P.
 
 Additional frameworks and plugins used include:
 - **Smooth Scrollbar**: A customizable scrollbar plugin.
